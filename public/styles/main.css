@@ -14,18 +14,18 @@ h1 {
   display: inline;
   font-size: 5rem;
   text-align: center;
-  color: #e26e5c;
+  color: #153c17;
   background-color: white;
 }
 
 h2 {
-  color: #e26e5c;
+  color: #15492c;
 }
 
 .buttons {
   display: flex;
   justify-content: center;
-  margin: 20px;
+  margin: 30px;
 }
 
 button {
